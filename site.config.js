@@ -3,19 +3,14 @@ const CONFIG = {
   profile: {
     name: "Kim_JinA",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "백엔드라고 감히 칭하고 싶은..",
-    bio: "말하는 바보 감자의 백엔드 공부기 :: How&Why",
+    role: "백엔드라고 칭하고 싶은..",
+    bio: "말하는 바보감자의 백엔드 공부기 :: How&Why",
     email: "",
     linkedin: "",
     github: "KimJinA0120",
     instagram: "",
   },
-  projects: [
-    {
-     //name: `morethan-log`,
-     //href: "https://github.com/morethanmin/morethan-log",
-    },
-  ],
+  projects: [],
   // blog setting (required)
   blog: {
     title: "말하는 바보 감자",
