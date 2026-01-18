@@ -10,7 +10,12 @@ const CONFIG = {
     github: "KimJinA0120",
     instagram: "",
   },
-  projects: [],
+  projects: [
+  {
+    name: 'GitHub',
+    href: 'https://github.com/KimJinA0120', // 본인의 깃허브 주소
+  },
+],
   // blog setting (required)
   blog: {
     title: "말하는 바보감자",
