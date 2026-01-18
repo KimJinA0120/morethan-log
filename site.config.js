@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [],
   // blog setting (required)
   blog: {
-    title: "말하는 바보 감자",
+    title: "말하는 바보감자",
     description: "[바보 감자 -> 감자]로의 레벨업 과정기",
     scheme: "light", // 'light' | 'dark' | 'system'
   },
